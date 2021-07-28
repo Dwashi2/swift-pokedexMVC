@@ -44,7 +44,7 @@ It's a simple app, only to study XIB, TableViewCell, CustomCell and how show the
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file pokedex.xcodeproj 
+Open the file pokemonMVC.xcodeproj 
 
 ### Prerequisites
 
